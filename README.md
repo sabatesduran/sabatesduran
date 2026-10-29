@@ -64,9 +64,12 @@ I like **local first software**, useful products with a small scope, ESP32 exper
 
 ### Apps
 
+- [**Roomotive**](https://roomotive.com) — Logic mysteries where every clue leads to a single suspect.
 - [**Veura**](https://veura.app) — A private voice-to-text app for iPhone.
 - [**NFC Studio**](https://nfcstudio.app) — NFC scan, write, and batch tools for iPhone.
 - [**OC Remote**](https://ocremote.didac.dev) — Manage projects and follow OpenCode sessions from your iPhone.
+- [**Bressol**](https://bressol.app) — A shared baby diary for feedings, diapers, and medication.
+- [**Calma**](https://calma.didac.dev) — Six continuous sounds, a timer, and night mode for calmer baby sleep routines.
 
 ### Web tools & games
 
@@ -83,7 +86,7 @@ I like **local first software**, useful products with a small scope, ESP32 exper
 
 ### On the workbench
 
-- [**Bressol**](https://bressol.app) — A shared baby diary for feedings, diapers, and medication.
+- [**Lensyll**](https://lensyll.didac.dev) — A voice-following teleprompter and video recorder for iPhone and iPad.
 - [**Contraccions**](https://didac.dev/projects/contraccions) — A private contraction timer and hospital-plan utility for iPhone.
 - [**OpenPrintCosts**](https://openprintcosts.com) — 3D-print job costing and quoting for makers and small workshops.
 
