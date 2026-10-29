@@ -19,80 +19,69 @@ I like **local first software**, useful products with a small scope, ESP32 exper
 
 ## Featured apps
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://roomotive.com"><img src="./assets/roomotive.png" width="56" height="56" alt="Roomotive icon" align="left" /></a>
-      &nbsp;<a href="https://roomotive.com"><strong>Roomotive</strong></a><br />
-      &nbsp;<sub><strong>LOGIC MYSTERY GAME</strong></sub><br />
-      &nbsp;Place every suspect. Follow the clues. Prove who was with the victim.
-      <br clear="left" /><br />
-      <a href="https://apps.apple.com/app/id6818926694"><strong>App Store ↗</strong></a> · <a href="https://roomotive.com">Website ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://bressol.app"><img src="./assets/bressol.png" width="56" height="56" alt="Bressol icon" align="left" /></a>
-      &nbsp;<a href="https://bressol.app"><strong>Bressol</strong></a><br />
-      &nbsp;<sub><strong>BABY CARE JOURNAL</strong></sub><br />
-      &nbsp;Keep feeds, diapers, medication, growth, and family notes in sync.
-      <br clear="left" /><br />
-      <a href="https://apps.apple.com/app/id6817879422"><strong>App Store ↗</strong></a> · <a href="https://bressol.app">Website ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://noff.app"><img src="./assets/noff.png" width="56" height="56" alt="Noff icon" align="left" /></a>
-      &nbsp;<a href="https://noff.app"><strong>Noff</strong></a><br />
-      &nbsp;<sub><strong>INTENTIONAL DISCONNECTION</strong></sub><br />
-      &nbsp;Put the unlock action on a physical NFC tag and step away on purpose.
-      <br clear="left" /><br />
-      <a href="https://apps.apple.com/app/noff/id6759967974"><strong>App Store ↗</strong></a> · <a href="https://noff.app">Website ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://metricdeck.didac.dev"><img src="./assets/metricdeck.png" width="56" height="56" alt="MetricDeck icon" align="left" /></a>
-      &nbsp;<a href="https://metricdeck.didac.dev"><strong>MetricDeck</strong></a><br />
-      &nbsp;<sub><strong>APP STORE ANALYTICS</strong></sub><br />
-      &nbsp;Private dashboards for downloads, revenue, refunds, and reviews.
-      <br clear="left" /><br />
-      <a href="https://apps.apple.com/nz/app/metricdeck-app-analytics/id6810206032"><strong>App Store ↗</strong></a> · <a href="https://metricdeck.didac.dev">Website ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://didac.dev/projects/centim"><img src="./assets/centim.png" width="56" height="56" alt="Cèntim icon" align="left" /></a>
-      &nbsp;<a href="https://didac.dev/projects/centim"><strong>Cèntim</strong></a><br />
-      &nbsp;<sub><strong>LOCAL-FIRST FINANCE</strong></sub><br />
-      &nbsp;Track everyday expenses while keeping your financial data on your iPhone.
-      <br clear="left" /><br />
-      <a href="https://apps.apple.com/do/app/c%C3%A8ntim-control-de-gastos/id6807595134"><strong>App Store ↗</strong></a> · <a href="https://didac.dev/projects/centim">Project page ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://orka.didac.dev"><img src="./assets/orka.png" width="56" height="56" alt="Orka icon" align="left" /></a>
-      &nbsp;<a href="https://orka.didac.dev"><strong>Orka</strong></a><br />
-      &nbsp;<sub><strong>COOLIFY COMPANION</strong></sub><br />
-      &nbsp;Native monitoring and management for self-hosted Coolify installations.
-      <br clear="left" /><br />
-      <a href="https://orka.didac.dev"><strong>Website ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://volum.didac.dev"><img src="./assets/volum.png" width="56" height="56" alt="Volum icon" align="left" /></a>
-      &nbsp;<a href="https://volum.didac.dev"><strong>Volum</strong></a><br />
-      &nbsp;<sub><strong>3D FILE ORGANIZER</strong></sub><br />
-      &nbsp;A free, open-source home for STL, 3MF, OBJ, and STEP files.
-      <br clear="left" /><br />
-      <a href="https://volum.didac.dev"><strong>Download ↗</strong></a> · <a href="https://github.com/sabatesduran/volum">GitHub ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://mimuu.app"><img src="./assets/mimuu.png" width="56" height="56" alt="Mimuu icon" align="left" /></a>
-      &nbsp;<a href="https://mimuu.app"><strong>Mimuu</strong></a><br />
-      &nbsp;<sub><strong>SHARED GIFT LISTS</strong></sub><br />
-      &nbsp;Coordinate purchases with friends and family without spoiling the surprise.
-      <br clear="left" /><br />
-      <a href="https://mimuu.app"><strong>Create a list ↗</strong></a>
-    </td>
-  </tr>
-</table>
+<a href="https://roomotive.com"><img src="./assets/roomotive.png" width="104" height="104" alt="Roomotive icon" align="left" /></a>
+
+### [Roomotive](https://roomotive.com)
+Place every suspect. Follow the clues. Prove who was with the victim.<br />
+[**App Store →**](https://apps.apple.com/app/id6818926694) &nbsp; [Website →](https://roomotive.com)
+
+<br clear="left" />
+
+<a href="https://bressol.app"><img src="./assets/bressol.png" width="104" height="104" alt="Bressol icon" align="left" /></a>
+
+### [Bressol](https://bressol.app)
+Keep feeds, diapers, medication, growth, and family notes in sync.<br />
+[**App Store →**](https://apps.apple.com/app/id6817879422) &nbsp; [Website →](https://bressol.app)
+
+<br clear="left" />
+
+<a href="https://noff.app"><img src="./assets/noff.png" width="104" height="104" alt="Noff icon" align="left" /></a>
+
+### [Noff](https://noff.app)
+Put the unlock action on a physical NFC tag and step away on purpose.<br />
+[**App Store →**](https://apps.apple.com/app/noff/id6759967974) &nbsp; [Website →](https://noff.app)
+
+<br clear="left" />
+
+<a href="https://metricdeck.didac.dev"><img src="./assets/metricdeck.png" width="104" height="104" alt="MetricDeck icon" align="left" /></a>
+
+### [MetricDeck](https://metricdeck.didac.dev)
+Private dashboards for downloads, revenue, refunds, and reviews.<br />
+[**App Store →**](https://apps.apple.com/nz/app/metricdeck-app-analytics/id6810206032) &nbsp; [Website →](https://metricdeck.didac.dev)
+
+<br clear="left" />
+
+<a href="https://didac.dev/projects/centim"><img src="./assets/centim.png" width="104" height="104" alt="Cèntim icon" align="left" /></a>
+
+### [Cèntim](https://didac.dev/projects/centim)
+Track everyday expenses while keeping your financial data on your iPhone.<br />
+[**App Store →**](https://apps.apple.com/do/app/c%C3%A8ntim-control-de-gastos/id6807595134) &nbsp; [Project page →](https://didac.dev/projects/centim)
+
+<br clear="left" />
+
+<a href="https://orka.didac.dev"><img src="./assets/orka.png" width="104" height="104" alt="Orka icon" align="left" /></a>
+
+### [Orka](https://orka.didac.dev)
+Native monitoring and management for self-hosted Coolify installations.<br />
+[**Website →**](https://orka.didac.dev)
+
+<br clear="left" />
+
+<a href="https://volum.didac.dev"><img src="./assets/volum.png" width="104" height="104" alt="Volum icon" align="left" /></a>
+
+### [Volum](https://volum.didac.dev)
+A free, open-source home for STL, 3MF, OBJ, and STEP files.<br />
+[**Download →**](https://volum.didac.dev) &nbsp; [GitHub →](https://github.com/sabatesduran/volum)
+
+<br clear="left" />
+
+<a href="https://mimuu.app"><img src="./assets/mimuu.png" width="104" height="104" alt="Mimuu icon" align="left" /></a>
+
+### [Mimuu](https://mimuu.app)
+Coordinate purchases with friends and family without spoiling the surprise.<br />
+[**Create a list →**](https://mimuu.app)
+
+<br clear="left" />
 
 ## More things I've made
 
